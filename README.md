@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://imgur.com/csfc2ly" />
+  <img src="https://media.discordapp.net/attachments/799816834106523701/1287221191454752809/LUIZORDespiralbannerytgrandee.jpg?ex=66f0c1a7&is=66ef7027&hm=2fc6dcaa07b6ce5dddd955ac628c252dc0b5410db13b9658916f7f18d7cc21b7&=&format=webp&width=1246&height=701" height="500" />
 </div>
 
 ###
@@ -87,6 +87,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Luizord0/Luizord0/output/snake.svg" alt="Snake animation" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
