@@ -94,12 +94,21 @@
 <h3 align="center"> Dev-U foi criada em 2018 por alunos da UNIFEI pelo interesse comum de desenvolver jogos e evoluir juntos!
 Nossa missão conta com o desenvolvimento de jogos, participação em Game Jams, desenvolvimento e pesquisas direcionadas para jogos educativos, e também na capacitação dos membros para o crescente mercado no Brasil!</h3>
 
-
+<p align="center"></p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<p></p>
+<h2 align="center">Visite meu perfil no itch.io!</h2>
+<a href="https://luizord.itch.io">
+<img align="left" height="170" src="https://static.itch.io/images/app-white.svg"  />
+</a>
+<p align="center">Clique na imagem ao lado para me seguir no perfil do itch.io para ficar por dentro das novidades dos novos jogos lançados com a DEV-U com minha participação!</p>
 
 ###
