@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/799816834106523701/1287221191454752809/LUIZORDespiralbannerytgrandee.jpg?ex=66f0c1a7&is=66ef7027&hm=2fc6dcaa07b6ce5dddd955ac628c252dc0b5410db13b9658916f7f18d7cc21b7&=&format=webp&width=1246&height=701" height="500" />
+  <img src="https://i.imgur.com/csfc2ly.jpeg" height="500" />
 </div>
 
 ###
