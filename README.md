@@ -89,7 +89,7 @@
 
 <h2 align="center">DEV-U</h2>
 <a href="https://dev-unifei.github.io" target="_blank">
-<img src="https://proex.unifei.edu.br/wp-content/uploads/2024/04/devu-nova-logo-adesivo-300x203.png" align="left" height="300" />
+<img src="https://github.com/Luizord0/Luizord0/blob/main/devu-nova-512-512.png" align="left" height="300" />
 </a>
 <h3 align="center"> Dev-U foi criada em 2018 por alunos da UNIFEI pelo interesse comum de desenvolver jogos e evoluir juntos!
 Nossa missão conta com o desenvolvimento de jogos, participação em Game Jams, desenvolvimento e pesquisas direcionadas para jogos educativos, e também na capacitação dos membros para o crescente mercado no Brasil!</h3>
