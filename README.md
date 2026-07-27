@@ -88,7 +88,7 @@
 <br clear="both">
 
 <h2 align="center">DEV-U</h2>
-<a href="https://dev-unifei.github.io" target="_blank">
+<a href="https://dev-u.unifei.edu.br/" target="_blank">
 <img src="https://github.com/Luizord0/Luizord0/blob/main/devu-nova-512-512.png" align="left" height="300" />
 </a>
 <h3 align="center"> Dev-U foi criada em 2018 por alunos da UNIFEI pelo interesse comum de desenvolver jogos e evoluir juntos!
